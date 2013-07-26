@@ -3,9 +3,6 @@ type qmuxd_socket, file_type;
 type sensors_socket, file_type;
 type camera_socket, file_type;
 
-<<<<<<< HEAD
-type audio_firmware_file, file_type;
-=======
 type kickstart_data_file, file_type, data_file_type;
 type sensors_data_file, file_type, data_file_type;
 type camera_data_file, file_type, data_file_type;
@@ -19,4 +16,3 @@ type persist_bluetooth_file, file_type;
 type persist_drm_file, file_type;
 type persist_sensors_file, file_type;
 type persist_wifi_file, file_type;
->>>>>>> 1de8290dd95dff28c8ed19fbbc12fde0986bcf30
