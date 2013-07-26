@@ -39,14 +39,17 @@
 /system/bin/usbhub_init
 /system/bin/v4l2-qcamera-app
 /system/etc/DxHDCP.cfg
+/system/etc/firmware/tzapps.b00
+/system/etc/firmware/tzapps.b01
+/system/etc/firmware/tzapps.b02
+/system/etc/firmware/tzapps.b03
+/system/etc/firmware/tzapps.mdt
 /system/etc/firmware/vidc.b00
 /system/etc/firmware/vidc.b01
 /system/etc/firmware/vidc.b02
 /system/etc/firmware/vidc.b03
 /system/etc/firmware/vidc.mdt
 /system/etc/firmware/vidc_1080p.fw
-/system/etc/firmware/wcd9310/wcd9310_anc.bin
-/system/etc/firmware/wcd9310/wcd9310_mbhc.bin
 /system/lib/egl/eglsubAndroid.so
 /system/lib/egl/libEGL_adreno200.so
 /system/lib/egl/libGLESv1_CM_adreno200.so
@@ -55,7 +58,6 @@
 /system/lib/hw/gps.msm8960.so
 /system/lib/hw/sensors.msm8960.so
 /system/lib/libacdbdata.so
-/system/lib/libacdbloader.so
 /system/lib/libAKM.so
 /system/lib/libaudcal.so
 /system/lib/libaudioalsa.so
